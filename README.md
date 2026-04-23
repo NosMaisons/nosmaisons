@@ -13,7 +13,7 @@ This is an active workshop, not a polished portfolio. You'll find things that ha
 A few things I've been building:
 
 - **Invoice OCR** — a mobile app that scans invoices and fills a database automatically. Built for a bakery. Probably useful for any small business drowning in paper.
-- **Article generator** — an LLM pipeline that generates a receipe, deployed on my own Raspberry Pi server. [Have a look!](https://editor.notremaison.app)
+- **Article generator** — an LLM pipeline that generates a receipe, deployed on my own Raspberry Pi server. [Have a look!](https://medium.notremaison.app)
 - **IoT monitoring** — an ESP32 device pushing live data from sensors a dashboard; a recreation of what I did on Microchip PIC.
 - **RAG experiments** — a LLM chatbot with retrieval-augmented generation for my bakery customers.
 
@@ -25,6 +25,6 @@ That's what I'm working toward.
 
 ## Let's connect
 
-If you're a small business trying to make sense of AI, a builder working on something in the same space, or just curious about the journey — I'm genuinely happy to talk.
+If you're a small business owner trying to make sense of AI, a builder working on something in the same space, or just curious about the journey — I'm genuinely happy to talk.
 
 _This is a work in progress. So am I._
