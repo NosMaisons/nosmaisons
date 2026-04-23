@@ -25,6 +25,6 @@ That's what I'm working toward.
 
 ## Let's connect
 
-If you're a small business trying to make sense of AI, a builder working on something in the same space, or just curious about the journey — I'm genuinely happy to talk.
+If you're a small business owner trying to make sense of AI, a builder working on something in the same space, or just curious about the journey — I'm genuinely happy to talk.
 
 _This is a work in progress. So am I._
